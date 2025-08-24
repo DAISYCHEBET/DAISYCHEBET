@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**DAISYCHEBET/DAISYCHEBET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Daisy**, a passionate **Data Scientist & Analyst**.  
+Studied Computer Science at **The Co-Operative University of Kenya**.  
 
-Here are some ideas to get you started:
+- 🔭 Currently working on exciting data projects  
+- 🌱 Learning advanced **machine learning & visualization techniques**  
+- 👯 Open to collaborating on **data-driven projects**  
+- 📊 ![Daisy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAISYCHEBET&show_icons=true&theme=radical)  
+- 💻 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DAISYCHEBET&layout=compact&theme=radical)  
+- 📫 Reach me at **chebetd003@gmail.com**  
+- 😄 Pronouns: *she/her*  
+- ⚡ Fun fact: I’m super whimsey! 🪶🐣  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
