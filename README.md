@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi!😊
 
 I'm **Daisy**, a passionate **Data Scientist & Analyst**.  
 Studied Computer Science at **The Co-Operative University of Kenya**.  
