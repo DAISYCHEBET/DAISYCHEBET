@@ -1,7 +1,7 @@
 ## Hi! 😊
 
 I'm **Daisy**, a passionate **Data Scientist**.  
-Studied Computer Science at **The Co-Operative University of Kenya**.  
+Studied Computer Science at **The Co-Operative University of Kenya**. 
 
 - 🔭 Currently working on exciting data projects  
 - 🌱 Learning advanced **machine learning & visualization techniques**  
