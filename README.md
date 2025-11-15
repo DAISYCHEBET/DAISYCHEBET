@@ -1,6 +1,6 @@
 ## Hi! 😊
 
-I'm **Daisy**, a passionate about all thngs **Data** **Network **. 
+I'm **Daisy**,passionate about all thngs **Data**|**Computer Networks **. 
 
 - 🔭 Currently learning MLOps
 - 👯 Open to collaborating on **data-driven projects**   
