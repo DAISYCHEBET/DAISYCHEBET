@@ -1,14 +1,12 @@
 ## Hi! 😊
 
-I'm **Daisy**, a passionate **Data Scientist**.  
-Studied Computer Science at **The Co-Operative University of Kenya**. 
+I'm **Daisy**, a passionate about all thngs **Data** **Network **. 
 
-- 🔭 Currently working on exciting data projects  
-- 🌱 Learning advanced **machine learning & visualization techniques**  
+- 🔭 Currently learning MLOps
 - 👯 Open to collaborating on **data-driven projects**   
 - 📫 Reach me at **chebetd003@gmail.com**  
 - 😄 Pronouns: *she/her*  
-- ⚡ Fun fact: I’m super whimsey! 🪶🐣  
+- ⚡ Super whimsey! 🪶🐣  
 
 ---
 
