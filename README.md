@@ -4,8 +4,7 @@ I'm **Daisy**,passionate about all things **Data** | **Computer Networks**.
 
 - 🔭 Currently learning MLOps
 - 👯 Open to collaborating on **data-driven projects**   
-- 📫 Reach me at **chebetd003@gmail.com**  
-- 😄 Pronouns: *she/her*  
+- 📫 Reach me at **chebetd003@gmail.com**   
 - ⚡ Super whimsey! 🪶🐣  
 
 ---
