@@ -1,6 +1,6 @@
 ## Hi! 😊
 
-I'm **Daisy**,passionate about building aroud and from data **Data Engineering** | **Machine Learning**. 
+I'm **Daisy**,passionate about building aroud and from data **Data Engineering** | **Machine Learning** | **Data Science** |  **Data Analysis** 
 
 - 🔭 Currently learning MLOps
 - 👯 Open to collaborating on **data-driven projects**   
